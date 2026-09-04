@@ -46,6 +46,7 @@ setuptools.setup(
         'odoo-addon-sale_invoice_plan>=16.0dev,<16.1dev',
         'odoo-addon-sale_invoice_policy>=16.0dev,<16.1dev',
         'odoo-addon-sale_invoice_split_payment>=16.0dev,<16.1dev',
+        'odoo-addon-sale_isolated_quotation>=16.0dev,<16.1dev',
         'odoo-addon-sale_last_price_info>=16.0dev,<16.1dev',
         'odoo-addon-sale_loyalty_exclude>=16.0dev,<16.1dev',
         'odoo-addon-sale_manual_delivery>=16.0dev,<16.1dev',
@@ -88,6 +89,7 @@ setuptools.setup(
         'odoo-addon-sale_order_note_template>=16.0dev,<16.1dev',
         'odoo-addon-sale_order_ordered_weight>=16.0dev,<16.1dev',
         'odoo-addon-sale_order_partner_no_autofollow>=16.0dev,<16.1dev',
+        'odoo-addon-sale_order_payment_terms_from_invoice_address>=16.0dev,<16.1dev',
         'odoo-addon-sale_order_price_recalculation>=16.0dev,<16.1dev',
         'odoo-addon-sale_order_priority>=16.0dev,<16.1dev',
         'odoo-addon-sale_order_product_assortment>=16.0dev,<16.1dev',
@@ -153,6 +155,7 @@ setuptools.setup(
         'odoo-addon-sale_validity_auto_cancel>=16.0dev,<16.1dev',
         'odoo-addon-sale_wishlist>=16.0dev,<16.1dev',
         'odoo-addon-sales_team_security>=16.0dev,<16.1dev',
+        'odoo-addon-sales_team_security_sale>=16.0dev,<16.1dev',
         'odoo-addon-sell_only_by_packaging>=16.0dev,<16.1dev',
     ],
     classifiers=[
